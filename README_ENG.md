@@ -1,6 +1,11 @@
 # LPDevNX Atmosphère
 
-**LPDevNX Atmosphère** is a **Custom Atmosphère** developed by UltraNX and optimized by LPDevNX, aiming for high performance and more convenient user experience.
+**LPDevNX Atmosphère** is a **Custom Atmosphère** optimized by UltraNX and personalized by LPDevNX, aiming for high performance and more convenient user experience.
+
+Important Note:
+LPDevNX is developed based on the official versions released by UltraNX, with some additional packages to meet the needs of maximizing the performance of Nintendo Switch.
+The project is created for non-profit purposes and personal use.
+All copyrights belong to UltraNX.
 
 ---
 
