@@ -11,15 +11,15 @@
 - **Cấu trúc module linh hoạt**: dễ dàng thêm hoặc loại bỏ các tiện ích.
 - **Tùy chỉnh hệ thống làm mát**: điều chỉnh tốc độ quạt và profile tản nhiệt.
 - **Cập nhật thường xuyên**: luôn cập nhật bản mới nhất qua GitHub.
-- **Cộng đồng hỗ trợ**: hỗ trợ qua Discord/Telegram.
+- **Cộng đồng hỗ trợ**: hỗ trợ qua Telegram "https://t.me/addlist/TzuVfNZS7vA5NTk9"
 
 ---
 
 ## 📦 Thành phần trong gói LPDevNX Atmosphère
 
-- **Atmosphère (fork)**: bản chính với logo LPDevNX, loại bỏ telemetry.
+- **Atmosphère (fork)**: bản chính UltraNX tinh chỉnh các gói phù hợp, với logo LPDevNX, loại bỏ telemetry.
 - **Hekate**: bootloader đồ họa, patch firmware.
-- **LPDevNX Tuner**: trình điều chỉnh overclock tích hợp.
+- **Ultra Tuner**: trình điều chỉnh overclock tích hợp.
 - **Payloads tích hợp**:
   - Lockpick RCM – dump serial keys.
   - TegraExplorer – quản lý file hệ thống.
@@ -45,7 +45,7 @@
 
 ## 💬 Cộng đồng & Hỗ trợ
 
-- Tham gia **Discord/Telegram của LPDevNX** để nhận hỗ trợ trực tiếp.
+- Tham gia **Discord/Telegram của LPDevNX** để nhận hỗ trợ trực tiếp. "https://t.me/+WNtz9Ju5Yl0wMWU9"
 - Báo lỗi hoặc đề xuất qua tab **Issues** trên GitHub.
 
 ---
