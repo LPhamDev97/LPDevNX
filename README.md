@@ -1,8 +1,12 @@
 # LPDevNX Atmosphère
 [README_ENG](https://github.com/LPhamDev97/LPDevNX/blob/main/README_ENG.md)
 
-**LPDevNX Atmosphère** là một bản **Custom Atmosphère** được phát triển bởi UltraNX và được tối ưu bởi LPDevNX, hướng tới hiệu năng cao và trải nghiệm người dùng tiện lợi hơn.
+**LPDevNX Atmosphère** là một bản **Custom Atmosphère** được phát triển tối ưu bởi UltraNX và được cá nhân hoá bởi LPDevNX, hướng tới hiệu năng cao và trải nghiệm người dùng tiện lợi hơn.
 
+Lưu ý quan trọng:
+LPDevNX được phát triển dựa trên các phiên bản chính thức do UltraNX phát hành, với một số gói bổ sung nhằm đáp ứng nhu cầu khai thác tối đa hiệu năng của Nintendo Switch.
+Dự án được tạo ra với mục đích phi lợi nhuận và sử dụng cá nhân.
+Mọi bản quyền thuộc về UltraNX.
 ---
 
 ## 🚀 Tính năng chính
