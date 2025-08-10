@@ -1,6 +1,6 @@
 # LPDevNX Atmosphère
 
-**LPDevNX Atmosphère** is a **Custom Atmosphère** developed and optimized by LPDevNX, aiming for high performance and a more convenient user experience.
+**LPDevNX Atmosphère** is a **Custom Atmosphère** developed by UltraNX and optimized by LPDevNX, aiming for high performance and more convenient user experience.
 
 ---
 
