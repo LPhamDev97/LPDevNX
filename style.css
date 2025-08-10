@@ -1,0 +1,100 @@
+/* Toàn bộ nền tối */
+body {
+  background-color: #1a1a1a;
+  color: #ddd;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+/* Container chính */
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+/* Logo kiểu neon */
+.logo {
+  font-size: 4rem;
+  color: #bada55; /* xanh lá mạ neon */
+  text-shadow:
+    0 0 10px #bada55,
+    0 0 20px #bada55,
+    0 0 30px #bada55,
+    0 0 40px #bada55;
+  animation: glow 2s infinite alternate;
+}
+
+/* Animation glow nhẹ */
+@keyframes glow {
+  from {
+    text-shadow:
+      0 0 5px #bada55,
+      0 0 10px #bada55,
+      0 0 15px #bada55,
+      0 0 20px #bada55;
+  }
+  to {
+    text-shadow:
+      0 0 20px #bada55,
+      0 0 30px #bada55,
+      0 0 40px #bada55,
+      0 0 50px #bada55;
+  }
+}
+
+/* Nút tải phong cách neon */
+.download-button {
+  display: inline-block;
+  margin: 30px auto;
+  padding: 15px 30px;
+  font-size: 1.25rem;
+  color: #fff;
+  background: linear-gradient(45deg, #7d00ff, #00ff7f);
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow:
+    0 0 10px #7d00ff,
+    0 0 20px #00ff7f,
+    0 0 30px #00ff7f,
+    0 0 40px #7d00ff;
+  animation: btn-glow 2s infinite alternate;
+}
+
+/* Animation glow cho nút */
+@keyframes btn-glow {
+  from {
+    box-shadow:
+      0 0 5px #7d00ff,
+      0 0 10px #00ff7f,
+      0 0 15px #00ff7f,
+      0 0 20px #7d00ff;
+  }
+  to {
+    box-shadow:
+      0 0 20px #7d00ff,
+      0 0 30px #00ff7f,
+      0 0 40px #00ff7f,
+      0 0 50px #7d00ff;
+  }
+}
+
+/* Changelog */
+.changelog {
+  margin-top: 50px;
+  text-align: left;
+}
+
+.changelog h2 {
+  color: #bada55;
+}
+
+.changelog ul {
+  list-style: none;
+  padding: 0;
+}
+
+.changelog li {
+  margin-bottom: 10px;
+}
