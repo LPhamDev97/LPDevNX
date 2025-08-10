@@ -1,7 +1,7 @@
 # LPDevNX Atmosphère
 [README_ENG](https://github.com/LPhamDev97/LPDevNX/blob/main/README_ENG.md)
 
-**LPDevNX Atmosphère** là một bản **Custom Atmosphère** được phát triển và tối ưu bởi LPDevNX, hướng tới hiệu năng cao và trải nghiệm người dùng tiện lợi hơn.
+**LPDevNX Atmosphère** là một bản **Custom Atmosphère** được phát triển bởi UltraNX và được tối ưu bởi LPDevNX, hướng tới hiệu năng cao và trải nghiệm người dùng tiện lợi hơn.
 
 ---
 
