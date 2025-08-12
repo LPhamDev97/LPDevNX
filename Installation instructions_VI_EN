@@ -1,0 +1,44 @@
+VIETNAMESE :
+
+
+1. Cài ATMOSPHERE :
+- Mở Partition Wizard, gắn thẻ SD vào đầu đọc thẻ, cắm vào máy tính. Trên phần mềm sẽ hiện thêm 1 disk
+(Chú ý dung lượng thẻ SD là bao nhiêu, chọn Disk tương ứng, ví dụ Disk 4 là thẻ SD).
+- Chuột phải vào Disk 4, chọn Delete All Partition, chọn chuột phải vào phân vùng xám của Disk 4, chọn Create, chọn FAT 32,
+chọn OK, chọn Apply.
+- Chép gói LPDevNX vào thẻ, gắn thẻ vào máy Switch.
+- Nhấn phím nguồn, nhanh tay nhấn phím "giảm âm lượng" để vào Hekate.
+- Chọn Tools, chọn Partition SD Card, kéo phân vùng emuMMC sang 12GB, kéo phân vùng Android sang 32GB (Tối thiểu 16GB),
+chọn Next Step, chọn Dynamic nếu có thông báo.
+- Sau khi phân vùng xong. Chọn Close, chọn HOME, chọn emuMMC, chọn Create emuMMC, chọn SD Partition.
+- Sau khi phân vùng emuMMC xong. chọn Close, chọn Close. chọn Options, ở mục Auto boot chọn CFW emuMMC, chọn Save Options.
+- Sau đó về tab Home, chọn Power Off.
+- Nhấn Power và đợi khởi chạy Atmosphere.
+- Vào Homebrew bằng cách di chuyển đến Album nhấn giữ tổ hợp R + A
+- Ở thư mục NSP có sẵn file nsp, cài hết tất cả file trong đó.
+
+2. Cài ANDROID :
+- Hướng dẫn cài đặt nằm ở trang Github : https://github.com/LPhamDev97/Android15byLPDevNX
+
+-----
+ENG :
+
+
+1. Install ATMOSPHERE:
+- Open Partition Wizard, insert the SD card into the card reader, plug it into the computer. The software will display an additional disk
+(Note the capacity of the SD card, select the corresponding Disk, for example Disk 4 is the SD card).
+- Right-click on Disk 4, select Delete All Partition, right-click on the gray partition of Disk 4, select Create, select FAT 32,
+select OK, select Apply.
+- Copy the LPDevNX package to the card, insert the card into the Switch.
+- Press the power key, quickly press the "volume down" key to enter Hekate.
+- Select Tools, select Partition SD Card, drag the emuMMC partition to 12GB, drag the Android partition to 32GB (Minimum 16GB),
+select Next Step, select Dynamic if there is a notification.
+- After the partition is complete. Select Close, select HOME, select emuMMC, select Create emuMMC, select SD Partition.
+- After partitioning emuMMC. select Close, select Close. select Options, in Auto boot select CFW emuMMC, select Save Options.
+- Then go to the Home tab, select Power Off.
+- Press Power and wait for Atmosphere to launch.
+- Go to Homebrew by moving to Album and holding down R + A
+- In the NSP folder, there is an nsp file, install all the files in it.
+
+2. Install ANDROID:
+- Installation instructions are on the Github page: https://github.com/LPhamDev97/Android15byLPDevNX
