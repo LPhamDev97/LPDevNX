@@ -16,6 +16,7 @@ chọn Next Step, chọn Dynamic nếu có thông báo.
 - Nhấn Power và đợi khởi chạy Atmosphere.
 - Vào Homebrew bằng cách di chuyển đến Album nhấn giữ tổ hợp R + A
 - Ở thư mục NSP có sẵn file nsp, cài hết tất cả file trong đó.
+- Trường hợp đang firmware thấp hơn 20.3.0 thì vào daybreak trong HBMenu, chạy folder firmware 20.3.0 (Nếu bạn chưa hiểu rõ cách update, vui lòng tìm từ khóa "update daybreak atmosphere" trên Youtube và làm theo clip.
 
 2. Cài ANDROID :
 - Hướng dẫn cài đặt nằm ở trang Github : https://github.com/LPhamDev97/Android15byLPDevNX
