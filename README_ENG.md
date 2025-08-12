@@ -1,5 +1,7 @@
 # LPDevNX Atmosphère
 
+[LPDevNX PACKAGE INSTALLATION INSTRUCTIONS](https://github.com/LPhamDev97/LPDevNX/blob/main/Installation%20instructions_VI_EN)
+
 **LPDevNX Atmosphère** is a **Custom Atmosphère** optimized by UltraNX and personalized by LPDevNX, aiming for high performance and more convenient user experience.
 
 Important Note:
