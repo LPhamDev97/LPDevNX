@@ -1,6 +1,8 @@
 # LPDevNX Atmosphère
 [README_ENG](https://github.com/LPhamDev97/LPDevNX/blob/main/README_ENG.md)
 
+[HƯỚNG DẪN CÀI ĐẶT GÓI LPDevNX](https://github.com/LPhamDev97/LPDevNX/blob/main/Installation%20instructions_VI_EN)
+
 **LPDevNX Atmosphère** là một bản **Custom Atmosphère** được phát triển tối ưu bởi UltraNX và được cá nhân hoá bởi LPDevNX, hướng tới hiệu năng cao và trải nghiệm người dùng tiện lợi hơn.
 
 Lưu ý quan trọng:
