@@ -3,7 +3,7 @@
 
 [HƯỚNG DẪN CÀI ĐẶT GÓI LPDevNX](https://github.com/LPhamDev97/LPDevNX/blob/main/Installation%20instructions_VI_EN)
 
-[Video hướng dẫn chi tiết cài đặt Atmosphere và Android 15 gói LPDevNX](https://github.com/LPhamDev97/LPDevNX/blob/main/README_ENG.md](https://youtu.be/0lbpQtp7ino?si=cA-wAXnSZDivk0fH)
+[Video hướng dẫn chi tiết cài đặt Atmosphere và Android 15 gói LPDevNX](https://youtu.be/0lbpQtp7ino?si=cA-wAXnSZDivk0fH)
 
 **LPDevNX Atmosphère** là một bản **Custom Atmosphère** được phát triển tối ưu bởi UltraNX và được cá nhân hoá bởi LPDevNX, hướng tới hiệu năng cao và trải nghiệm người dùng tiện lợi hơn.
 
