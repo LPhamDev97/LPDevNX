@@ -1,88 +1,130 @@
-🔹 HƯỚNG DẪN CÀI ĐẶT
-1. Chuẩn bị trên PC
+===================================
 
-Tải Phân vùng thẻ nhớ
-, giải nén.
+**--- HƯỚNG DẪN CÀI ĐẶT ---**
 
-Tải Gói Android ([Tablet] 1.0.5)
-, giải nén.
+- Tải [Phân vùng thẻ nhớ](https://github.com/LPhamDev97/Partition-SD-Card-Switch/releases), sau đó giải nén.
+- Tải [Gói Android ([Tablet]1.0.5)_dành cho Switch](https://github.com/LPhamDev97/AndroidTablet-For-Switch-by-LPDevNX/releases/tag/Tablet_1.0.5), sau đó giải nén.
 
-Partition Wizard:
+**### Partition** Wizard :**
+- Mở Partition Wizard.
+- Chuột phải vào Disk thẻ nhớ.
+- Chọn Delete All Partitions.
+- Chọn Yes
+- Chuột phải vào Unallocated
+- Chọn Create
+- File System : FAT32
+- Cluster Size : Default
+- Chọn OK
+- Chọn Apply
+- Chọn Yes
+- Đợi xong chọn OK
 
-Chuột phải vào Disk thẻ nhớ → Delete All Partitions → Yes.
+**### GUIFORMAT :**
+- Xem đã chọn đúng ổ thẻ nhớ chưa nhé, đúng thì làm bước kế tiếp
+- Dòng Allocation unit size : Chọn 32768
+- Chọn Quick Format
+- Chọn OK
+- Đợi chạy xong nhấn Close.
 
-Chuột phải vào Unallocated → Create.
+**### PC :**
+- Chép gói LPDevNX vào thẻ nhớ
 
-File System: FAT32
+**### SWITCH :**
+- Gắn thẻ nhớ vào máy switch
+- Nhấn POWER, lập tức nhấn phím VOLUME DOWN để vào Hekate
+- Chọn Tools
+- Chọn Partition SD Card
+- Chọn OK
+- Kéo emuMMC : 12GB
+- Kéo Android : 16-32GB (Tuỳ các bạn)
+- Chọn Next Step
+- Chọn Legacy
+- Chọn Start
+- Đợi 5 giây, nhìn thông báo yêu cầu nhấn POWER, nhấn POWER
+- Đợi chạy xong, chọn Home
+- Chọn emmuMMC
+- Chọn Create emuMMC
+- Chọn SD Partition
+- Chọn Part 1
+- Đợi cho đến khi chạy xong, nhấn Close
+- Chọn Power Off
+- Chọn Power Off
+- Nhấn phím nguồn và đợi máy vào Atmosphere
+- Di chuyển đến mục Album bên góc trên bên phải, nhấn phím A trên Joy-con
+- Mở daybreak
+- Chọn Install
+- Chọn folder Firmware 20.4.0
+- Chọn Continue
+- Chọn Preserve Settings
+- Chọn Install (FAT32+exFAT)
+- Chọn Continue
+- Chọn Reboot
 
-Cluster Size: Default
+**### PC :**
+Gắn thẻ nhớ vào máy tính
+Chép gói Android phiên bản [Tablet] 1.0.5 vào thẻ nhớ ( Đường dẫn là SDCard:/ )
 
-OK → Apply → Yes → OK khi xong.
+**### SWITCH :**
+Gắn thẻ nhớ vào máy switch
+Nhấn POWER mở máy, lập tức nhấn phím VOLUME DOWN để vào Hekate
+Chọn Tools
+Chọn Partition SD Card
+Chọn OK
+Chọn Flash Android 10/11
+Chọn Continue
+Chọn Continue
+Kéo Swipe to Allow Modifications
+Chọn Wipe
+Chọn tiếp wipe, kéo Swipe to reset
+Lùi ra, chọn Format Data
+Gõ yes
+Chọn dấu tích xanh
+Lùi ra menu chính recovery của android, chọn Reboot
+Chọn Recovery
+Kéo Swipe to reboot
+Máy sẽ vào Hekate, chọn Nyx Settings
+Dump Joy-conBT
+Chọn OK
+Chọn Close
+Chọn Launch
+Chọn Android, lập tức nhấn giữ Volume UP cho đến khi vào Recovery
+Kéo Swipe to Allow Modifications
+Chọn Install
+Chọn (Up to Level)
+Kéo xuống chọn external_sd
+Chọn Expansion Pack
+Chọn LinageOS-18.1.zip
+Kéo Swipe to confirm flash
+Chọn Reboot system
+Chọn Launch
+Chọn Android
+Sau khi Android khởi động lên. Bạn tiến hành thiết lập ban đầu cho nó nhé, bước này bắt buộc làm để sau này kích hoạt được chế độ tối ưu.
+Vào Cài Đặt / Hệ thống / Nâng Cao / Kéo xuống nhé / Switch Configuration / Performance Mode (Bật) / OK
+Khởi động về recovery mode của android (Power / Giữ Volum UP)
+Chọn Apply Update
+Chọn Choose form Switch SD
+Chọn Expansion Pack
+Chọn Folder Fix-epxung
+Chọn Fix joycon / chọn YES
+Chọn Choose Switch SD
+Chọn Expansion Pack
+Chọn Folder Fix-epxung
+Chọn BanEpXungThuNhat.zip / Chọn YES
+Lùi ra / Reboot system now
+Vào CHPlay, tải "3C CPU Manager (Root)" để check nhé.
 
-GUIFORMAT:
+*******  Fix DOCK MODE không hoạt động *******
 
-Chọn đúng ổ thẻ nhớ.
+Mở Menu App
+Mở ứng dụng Cài đặt nâng cao
+Sau đó cắm máy switch vào dock (Kết nối với thiết bị như TV, màn hình rời, hoặc Capture Card...)
+Trên máy switch, kéo xuống dòng HDMI-Select Mode
+Chọn 640 x 480 / chọn OK
+(Lúc này màn hình xuất dock sẽ nháy vài lần và hiển thị)
+Chọn tiếp HDMI - Select Mode
+Chọn 1920 x 1080 (Hoặc độ phân giải cao nhất mà màn hình hỗ trợ nhé) / Sau đó chọn OK
+(Mỗi lần muốn xuất DOCK vui lòng fix thủ công cách này, vì bản tablet android chưa hỗ trợ fix dock, chỉ có bản androidtv là có thể xử dụng DOCK MODE thoải mái mà không cần fix.
 
-Allocation unit size: 32768.
-
-Tick Quick Format → OK → Close.
-
-PC:
-
-Copy gói LPDevNX vào thẻ nhớ.
-
-2. Thiết lập trên Switch
-
-Gắn thẻ nhớ → Power + Volume Down → vào Hekate.
-
-Tools → Partition SD Card → OK.
-
-Kéo emuMMC: 12GB, Android: 16–32GB.
-
-Next Step → Legacy → Start.
-
-Khi báo nhấn Power, bấm Power.
-
-Sau khi hoàn tất → Home → emuMMC → Create emuMMC → SD Partition → Part 1 → Close → Power Off.
-
-Khởi động lại → vào Atmosphere.
-
-Vào Album → mở Daybreak → cài Firmware 20.4.0.
-
-Chọn Preserve Settings → Install (FAT32+exFAT) → Continue → Reboot.
-
-3. Cài Android Tablet 1.0.5
-
-Trên PC: Copy Android vào SDCard:/.
-
-Trên Switch:
-
-Power + Volume Down → Hekate → Tools → Partition SD Card → OK.
-
-Flash Android 10/11 → Continue → Swipe to Allow Modifications.
-
-Wipe → Swipe to reset → Format Data → yes → Reboot.
-
-Vào Recovery → Install → external_sd → Expansion Pack → LineageOS-18.1.zip → Reboot system.
-
-Launch → Android → Thiết lập ban đầu.
-
-Vào Cài đặt / Hệ thống / Nâng cao / Switch Configuration / Performance Mode → Bật.
-
-Reboot → Recovery → Apply Update → Choose from Switch SD → Expansion Pack → Fix-epxung.
-
-Chọn Fix joycon.zip → YES → BanEpXungThuNhat.zip → YES → Reboot system.
-
-Vào CHPlay, tải 3C CPU Manager (Root) để kiểm tra.
-
-4. Fix DOCK MODE
-
-Mở Menu App → Cài đặt nâng cao.
-
-Cắm Switch vào Dock (TV/màn hình/Capture Card).
-
-HDMI-Select Mode → 640x480 → OK (màn hình sẽ nháy).
-
-Chọn lại HDMI-Select Mode → 1920x1080 hoặc cao nhất màn hình hỗ trợ → OK.
-
-Lưu ý: Bản Android Tablet chưa hỗ trợ dock cố định, chỉ bản Android TV mới hỗ trợ ổn định.
+===================================
+CẢM ƠN CÁC BẠN ĐÃ TIN TƯỞNG VÀ SỬ DỤNG GÓI LPDevNX
+===================================
