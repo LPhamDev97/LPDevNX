@@ -1,6 +1,10 @@
-- Chép gói firmware 20.4.0 vào thẻ SD.
+- Gắn thẻ SD vào máy tính, khuyến khích các bạn nên lưu bản việt hoá và cheat game của mình ra folder riêng (Để sau này update dễ chép vào), xoá hết toàn bộ có trong thẻ (Trừ thư mục emuMMC và Nintendo).
+- Chép gói LPDevNX mới nhất vào thẻ SD.
+- Vào Hekate, chọn Launch, boot vào LPDevNX atmosphere.
 - Vào daybreak, upgrade folder firmware 20.4.0.
 - Vào firmware gốc, update version mới nhất.
 - Trường hợp sau khi update xong firmware gốc và khởi động lại
 không lên màn hình, đừng lo lắng, chỉ cần tháo thẻ nhớ ra, nhấn phím nguồn,
 cho thông báo "No SD Card". Tắt nguồn, gắn thẻ SD vào máy, khỏi động lại.
+
+Lưu ý: Buộc phải thao tác xoá hết thẻ (Trừ emuMMC và Nintendo như bước đầu tiên để tránh lỗi không thể vào daybreak update được firmware mới nhé !)
