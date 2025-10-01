@@ -5,12 +5,12 @@
 
 [Video hướng dẫn chi tiết cài đặt Atmosphere và Android 15 gói LPDevNX](https://youtu.be/-HiUjyuZGfw?si=vPMLLfe7fVfdpShR)
 
-**LPDevNX Atmosphère** là một bản **Custom Atmosphère** được phát triển tối ưu bởi UltraNX và được cá nhân hoá bởi LPDevNX, hướng tới hiệu năng cao và trải nghiệm người dùng tiện lợi hơn.
+**LPDevNX Atmosphère** là một bản **Custom Atmosphère** được phát triển tối ưu và được cá nhân hoá bởi LPDevNX, hướng tới hiệu năng cao và trải nghiệm người dùng tiện lợi hơn.
 
 Lưu ý quan trọng:
-LPDevNX được phát triển dựa trên các phiên bản chính thức do UltraNX phát hành, với một số gói bổ sung nhằm đáp ứng nhu cầu khai thác tối đa hiệu năng của Nintendo Switch.
+LPDevNX được phát triển dựa trên các phiên bản chính thức do Lâm Phạm phát hành, với một số gói bổ sung nhằm đáp ứng nhu cầu khai thác tối đa hiệu năng của Nintendo Switch.
 Dự án được tạo ra với mục đích phi lợi nhuận và sử dụng cá nhân.
-Mọi bản quyền thuộc về UltraNX.
+Mọi bản quyền thuộc về LPDevNX.
 ---
 
 ## 🚀 Tính năng chính
