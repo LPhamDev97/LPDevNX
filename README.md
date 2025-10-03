@@ -20,7 +20,7 @@ Mọi bản quyền thuộc về LPDevNX.
 - **Cấu trúc module linh hoạt**: dễ dàng thêm hoặc loại bỏ các tiện ích.
 - **Tùy chỉnh hệ thống làm mát**: điều chỉnh tốc độ quạt và profile tản nhiệt.
 - **Cập nhật thường xuyên**: luôn cập nhật bản mới nhất qua GitHub.
-- **Cộng đồng hỗ trợ**: hỗ trợ qua Facebook "[Facebook](https://www.facebook.com/share/g/1A5ZukjU9y/)"
+- **Cộng đồng hỗ trợ**: hỗ trợ qua "[Facebook](https://www.facebook.com/share/g/1A5ZukjU9y/)"
 
 ---
 
