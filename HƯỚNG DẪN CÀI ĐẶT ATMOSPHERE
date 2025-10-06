@@ -6,112 +6,129 @@
 - Tải [Gói Android ([Tablet]1.0.6)_dành cho Switch](https://github.com/LPhamDev97/Android-Powered-by-LPDevNX-/releases), sau đó giải nén.
 
 **### Partition** Wizard :**
-- Mở Partition Wizard.
-- Chuột phải vào Disk thẻ nhớ.
+- Gắn thẻ voà máy tính.
+- Mở phần mềm.
+- Có thông báo update phần mềm thì nhấn NO.
+- Chuột phải vào disk X (X là số thứ tự thẻ nhớ mà phần mềm nhận được, ví dụ disk4).
 - Chọn Delete All Partitions.
-- Chọn Yes
-- Chuột phải vào Unallocated
-- Chọn Create
-- File System : FAT32
-- Cluster Size : Default
-- Chọn OK
-- Chọn Apply
-- Chọn Yes
-- Đợi xong chọn OK
+- Chọn Yes.
+- Chuột phải vào chữ (Unallocated).
+- Chọn Create.
+- File system : FAT32
+- Cluster Size : 64kb
+- Chọn OK.
+- Chọn Apply.
+- Chọn Yes.
+- Chọn OK.
+- Thoát phần mềm.
 
 **### GUIFORMAT :**
-- Xem đã chọn đúng ổ thẻ nhớ chưa nhé, đúng thì làm bước kế tiếp
-- Dòng Allocation unit size : Chọn 32768
-- Chọn Quick Format
-- Chọn OK
-- Đợi chạy xong nhấn Close.
+- Chọn ổ thẻ nhớ của bạn, chú ý dung lượng thẻ để format đúng *Quan trọng*
+- Alocation unit size : 65536
+- Start
+- OK
 
 **### PC :**
-- Chép gói LPDevNX vào thẻ nhớ
+- Chép gói LPDevNX vào thẻ.
 
 **### SWITCH :**
-- Gắn thẻ nhớ vào máy switch
-- Nhấn POWER, lập tức nhấn phím VOLUME DOWN để vào Hekate
-- Chọn Tools
-- Chọn Partition SD Card
-- Chọn OK
-- Kéo emuMMC : 12GB
-- Kéo Android : 16-32GB (Tuỳ các bạn)
-- Chọn Next Step
-- Chọn Legacy
-- Chọn Start
-- Đợi 5 giây, nhìn thông báo yêu cầu nhấn POWER, nhấn POWER
-- Đợi chạy xong, chọn Home
-- Chọn emmuMMC
-- Chọn Create emuMMC
-- Chọn SD Partition
-- Chọn Part 1
-- Đợi cho đến khi chạy xong, nhấn Close
-- Chọn Power Off
-- Chọn Power Off
-- Nhấn phím nguồn và đợi máy vào Atmosphere
-- Di chuyển đến mục Album bên góc trên bên phải, nhấn phím A trên Joy-con
-- Mở daybreak
-- Chọn Install
-- Chọn folder Firmware 20.5.0
-- Chọn Continue
-- Chọn Preserve Settings
-- Chọn Install (FAT32+exFAT)
-- Chọn Continue
-- Chọn Reboot
+- Gắn thẻ vào máy Switch.
+- Nhấn Power, khi màn hình landing vừa bật lên, lập tức nhấn phím "volume down" để vào Hekate.
+- Tools
+- Partition SD Card
+- OK
+- Kéo phân vùng emuMMC : 12GB (Tuỳ nhu cầu sử dụng của bạn, Khuyến khích 12GB)
+- Kéo phân vùng android : 12-32GB (Tuỳ nhu cầu sử dụng của bạn)
+- Next step
+- Dynamic
+- Start
+- Nhấn Power khi thấy thông báo "press Power..."
+- Đợi chạy xong, nhấn OK
+- Close
+- Home
+- emuMMC
+- Create emuMMC
+- SD Partition
+- Part 1
+- Close
+- Close
+- Power off
+- Power off
+- Nhấn phím nguồn và đợi vào atmosphere
+- Di chuyển đến mục Album, nhấn R + A
+- Daybreak
+- Install
+- chọn Folder Firmware (20.X.X)
+- Continue
+- Preserve Settings
+- Install (FAT32)
+- Continue
+- Reboot
+- Đợi vào atmosphere, kiểm tra xem đúng firmware mới nhất chưa nhé !
+- Sau đó tắt máy switch
 
 **### PC :**
-Gắn thẻ nhớ vào máy tính
-Chép gói Android phiên bản [Tablet] 1.0.5 vào thẻ nhớ ( Đường dẫn là SDCard:/ )
+- Gắn thẻ vào máy tính
+- Chép gói Android Tablet 1.0.6 vào thẻ nhớ
+- Chọn Replace the files in the destination
 
 **### SWITCH :**
-Gắn thẻ nhớ vào máy switch
-Nhấn POWER mở máy, lập tức nhấn phím VOLUME DOWN để vào Hekate
-Chọn Tools
-Chọn Partition SD Card
-Chọn OK
-Chọn Flash Android 10/11
-Chọn Continue
-Chọn Continue
-Kéo Swipe to Allow Modifications
-Chọn Wipe
-Chọn tiếp wipe, kéo Swipe to reset
-Lùi ra, chọn Format Data
-Gõ yes
-Chọn dấu tích xanh
-Lùi ra menu chính recovery của android, chọn Reboot
-Chọn Recovery
-Kéo Swipe to reboot
-Máy sẽ vào Hekate, chọn Nyx Settings
-Dump Joy-conBT
-Chọn OK
-Chọn Close
-Chọn Launch
-Chọn Android, lập tức nhấn giữ Volume UP cho đến khi vào Recovery
-Kéo Swipe to Allow Modifications
-Chọn Install
-Chọn (Up to Level)
-Kéo xuống chọn external_sd
-Chọn Expansion Pack
-Chọn LinageOS-18.1.zip
-Kéo Swipe to confirm flash
-Chọn Reboot system
-Chọn Launch
-Chọn Android
-Sau khi Android khởi động lên. Bạn tiến hành thiết lập ban đầu cho nó nhé, bước này bắt buộc làm để sau này kích hoạt được chế độ tối ưu.
-Vào Cài Đặt / Hệ thống / Nâng Cao / Kéo xuống nhé / Switch Configuration / Performance Mode (Bật) / OK
-Khởi động về recovery mode của android (Power / Giữ Volum UP)
-Chọn Apply Update
-Chọn Choose form Switch SD
-Chọn Expansion Pack
-Chọn Folder Fix-epxung
-Chọn Fix joycon / chọn YES
-Chọn Choose Switch SD
-Chọn Expansion Pack
-Chọn Folder Fix-epxung
-Chọn BanEpXungThuNhat.zip / Chọn YES
-Lùi ra / Reboot system now
-Vào CHPlay, tải "3C CPU Manager (Root)" để check nhé.
+- Gắn thẻ vào máy switch
+- Nhấn Power, khi màn hình landing vừa bật lên, lập tức nhấn phím "volume down" để vào Hekate.
+- Tools
+- Parition SD Card
+- OK
+- Flash Android 13+
+- Continue
+- Continue
+- Đợi boot vào recovery của android
+- Factory reset
+- Format Data/Factory reset
+- Trở về
+- Apply update
+- Choose from Switch SD
+- Expansion Pack by LPDevNX
+- Lineage-22.2.zip
+- Apply update
+- Choose from Switch SD
+- Expansion Pack by LPDevNX
+- ADVANCED
+- fix-joycon.zip
+- Yes
+- Apply update
+- Choose from Switch SD
+- Expansion Pack by LPDevNX
+- ADVANCED
+- joycon-xbox.zip
+- Yes
+- Reboot system now
+(Sau khi vào menu chính, có thể bị crash giao diện, chỉ cần vào File by Google trong list menu, kéo xuống, tìm chữ thẻ SD, tìm Expansion Pack by LPDevNX, chọn ADVANCED, chọn APK, và cài đặt console-launcher.apk)
+- Mở app
+- Chọn Set as default
+- Chọn Console Launcher
+- Next
+- Next
+- Sau đó vào cài đặt android
+- Chọn Giới thiệu máy tính bảng
+- Kéo xuống cùng chọn Số bản dựng nhiều lần (Để mở khoá Tuỳ chọn nhà phát triển)
+- Chọn Hệ thống
+- Chọn Tuỳ chọn nhà phát triển
+- Chọn vào Gỡ lỗi wifi
+- Chọn vào Tắt thời gian uỷ quyền ADB
+- Chọn vào Cho phép lớp phủ cài đặt
+- Cắm cáp kết nối switch vào máy tính
+
+**### PC :**
+- Tìm "platform-tools", tải về và giải nén vào ổ C (Chú ý giải nén ra phải là folder platform-tools)
+- Mở CMD, gõ cd C:\platform-tools\
+- ADB Devices
+- ADB Shell
+- pm uninstall --user 0 com.android.launcher3
+Thấy có dòng SUCCESS là gỡ phần mềm thành công.
+
+
+~~~o0o~~~
+
 
 *******  Fix DOCK MODE không hoạt động *******
 
