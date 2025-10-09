@@ -40,7 +40,7 @@
 - Kéo phân vùng emuMMC : 12GB (Tuỳ nhu cầu sử dụng của bạn, Khuyến khích 12GB)
 - Kéo phân vùng android : 12-32GB (Tuỳ nhu cầu sử dụng của bạn)
 - Next step
-- Dynamic
+- Legacy
 - Start
 - Nhấn Power khi thấy thông báo "press Power..."
 - Đợi chạy xong, nhấn OK
@@ -78,7 +78,7 @@
 - Tools
 - Parition SD Card
 - OK
-- Flash Android 13+
+- Flash Android 10/11
 - Continue
 - Continue
 - Đợi boot vào recovery của android
