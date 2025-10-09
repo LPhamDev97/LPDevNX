@@ -1,3 +1,6 @@
+CẦN SAO LƯU TRƯỚC THƯ MỤC "CONTENTS" TRONG "ATMOSPHERE/CONTENTS" ĐỂ TRÁNH MẤT DỮ LIỆU CHEAT GAMES - VIỆT HOÁ GAME (KHUYẾN KHÍCH BẠN NÊN CÓ 1 FOLDER RIÊNG LƯU NHỮNG FILE VH VÀ CHEAT TRÊN MÁY TÍNH).
+BUỘC PHẢI THAO TÁC XOÁ HẾT MỌI THỨ TRONG THẺ (TRỪ FOLDER "EMUMMC" VÀ FOLDER "NINTENDO" ĐỂ TRÁNH LỖI XUNG ĐỘT FIRMWARE KHÔNG THỂ DAYBREAK NHÉ !
+
 - Gắn thẻ SD vào máy tính, khuyến khích các bạn nên lưu bản việt hoá và cheat game của mình ra folder riêng (Để sau này update dễ chép vào), xoá hết toàn bộ có trong thẻ (Trừ thư mục emuMMC và Nintendo).
 - Chép gói LPDevNX mới nhất vào thẻ SD.
 - Vào Hekate, chọn Launch, boot vào LPDevNX atmosphere.
@@ -6,5 +9,3 @@
 - Trường hợp sau khi update xong firmware gốc và khởi động lại
 không lên màn hình, đừng lo lắng, chỉ cần tháo thẻ nhớ ra, nhấn phím nguồn,
 cho thông báo "No SD Card". Tắt nguồn, gắn thẻ SD vào máy, khỏi động lại.
-
-Lưu ý: Buộc phải thao tác xoá hết thẻ (Trừ emuMMC và Nintendo như bước đầu tiên để tránh lỗi không thể vào daybreak update được firmware mới nhé !)
