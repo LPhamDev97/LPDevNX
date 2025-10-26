@@ -2,11 +2,15 @@
 
 **--- HƯỚNG DẪN CÀI ĐẶT ---**
 
-- Tải [Phân vùng thẻ nhớ](https://github.com/LPhamDev97/Partition-SD-Card-Switch/releases), sau đó giải nén.
-- Tải [Gói Android ([Tablet]1.0.6)_dành cho Switch](https://github.com/LPhamDev97/Android-Powered-by-LPDevNX-/releases), sau đó giải nén.
+- Tải [Phân vùng thẻ nhớ]
+Link : (https://github.com/LPhamDev97/Partition-SD-Card-Switch/releases)
+,sau đó giải nén.
+- Tải [Gói Android ([Tablet]1.0.7)_dành cho Switch]
+Link : (https://github.com/LPhamDev97/Android-Powered-by-LPDevNX-/releases/tag/1.0.7ATV)
+,sau đó giải nén.
 
 **### Partition** Wizard :**
-- Gắn thẻ voà máy tính.
+- Gắn thẻ vào máy tính.
 - Mở phần mềm.
 - Có thông báo update phần mềm thì nhấn NO.
 - Chuột phải vào disk X (X là số thứ tự thẻ nhớ mà phần mềm nhận được, ví dụ disk4).
@@ -82,49 +86,54 @@
 - Continue
 - Continue
 - Đợi boot vào recovery của android
-- Factory reset
-- Format Data/Factory reset
-- Trở về
-- Apply update
-- Choose from Switch SD
-- Expansion Pack by LPDevNX
-- Lineage-22.2.zip
-- Apply update
-- Choose from Switch SD
-- Expansion Pack by LPDevNX
-- ADVANCED
-- fix-joycon.zip
+- Factory Reset
+- Format Data / Factory Reset
+- Format Data
+- Nhấn mũi tên trái trên màn hình
+- Apply Update
+- Choose from SWITCH SD
+- Kéo xuống tìm Expansion Pack
+- Chọn flash dòng có [1] Lineageos18.1.zip
 - Yes
-- Apply update
-- Choose from Switch SD
-- Expansion Pack by LPDevNX
-- ADVANCED
-- joycon-xbox.zip
+- Choose from SWITCH SD
+- Expansion Pack
+- Chọn flash dòng [2].... .zip
+- Choose from SWITCH SD
+- Expansion Pack
+- Chọn flash dòng [3]... .zip
 - Yes
-- Reboot system now
-(Sau khi vào menu chính, có thể bị crash giao diện, chỉ cần vào File by Google trong list menu, kéo xuống, tìm chữ thẻ SD, tìm Expansion Pack by LPDevNX, chọn ADVANCED, chọn APK, và cài đặt console-launcher.apk)
-- Mở app
-- Chọn Set as default
-- Chọn Console Launcher
-- Next
-- Next
-- Sau đó vào cài đặt android
-- Chọn Giới thiệu máy tính bảng
-- Kéo xuống cùng chọn Số bản dựng nhiều lần (Để mở khoá Tuỳ chọn nhà phát triển)
-- Chọn Hệ thống
-- Chọn Tuỳ chọn nhà phát triển
-- Chọn vào Gỡ lỗi wifi
-- Chọn vào Tắt thời gian uỷ quyền ADB
-- Chọn vào Cho phép lớp phủ cài đặt
-- Cắm cáp kết nối switch vào máy tính
+- Choose from SWITCH SD
+- Expansion Pack
+- Chọn flash dòng [4]... .zip
+- Yes
+- Choose from SWITCH SD
+- Expansion Pack
+- Chọn flash dòng [5]... .zip
+- Yes
+- Nhấn mũi tên trái trên màn hình
+- Reboot System Now
+- Lúc này máy sẽ vào hekate, chọn Launch
+- Chọn Android (Đợi khởi động là hoàn tất quá trình cài đặt).
 
-**### PC :**
-- Tìm "platform-tools", tải về và giải nén vào ổ C (Chú ý giải nén ra phải là folder platform-tools)
-- Mở CMD, gõ cd C:\platform-tools\
-- ADB Devices
-- ADB Shell
-- pm uninstall --user 0 com.android.launcher3
-Thấy có dòng SUCCESS là gỡ phần mềm thành công.
+
+
+
+*******  Fix DOCK MODE không hoạt động *******
+
+Mở Menu App
+Mở ứng dụng Cài đặt nâng cao
+Sau đó cắm máy switch vào dock (Kết nối với thiết bị như TV, màn hình rời, hoặc Capture Card...)
+Trên máy switch, kéo xuống dòng HDMI-Select Mode
+Chọn 640 x 480 / chọn OK
+(Lúc này màn hình xuất dock sẽ nháy vài lần và hiển thị)
+Chọn tiếp HDMI - Select Mode
+Chọn 1920 x 1080 (Hoặc độ phân giải cao nhất mà màn hình hỗ trợ nhé) / Sau đó chọn OK
+(Mỗi lần muốn xuất DOCK vui lòng fix thủ công cách này, vì bản tablet android chưa hỗ trợ fix dock, chỉ có bản androidtv là có thể xử dụng DOCK MODE thoải mái mà không cần fix.
+
+===================================================
+CẢM ƠN CÁC BẠN ĐÃ TIN TƯỞNG VÀ SỬ DỤNG GÓI LPDevNX
+===================================================
+
 
 
 ~~~o0o~~~
