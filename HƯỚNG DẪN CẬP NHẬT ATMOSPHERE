@@ -1,11 +1,24 @@
-CẦN SAO LƯU TRƯỚC THƯ MỤC "CONTENTS" TRONG "ATMOSPHERE/CONTENTS" ĐỂ TRÁNH MẤT DỮ LIỆU CHEAT GAMES - VIỆT HOÁ GAME (KHUYẾN KHÍCH BẠN NÊN CÓ 1 FOLDER RIÊNG LƯU NHỮNG FILE VH VÀ CHEAT TRÊN MÁY TÍNH).
-BUỘC PHẢI THAO TÁC XOÁ HẾT MỌI THỨ TRONG THẺ (TRỪ FOLDER "EMUMMC" VÀ FOLDER "NINTENDO" ĐỂ TRÁNH LỖI XUNG ĐỘT FIRMWARE KHÔNG THỂ DAYBREAK NHÉ !
+- Đầu tiên, đối với các bạn dùng host tinfoil FTP thì buộc phải ghi nhớ thông tin user và pass (Để sau này nhập lại thông tin vào tinfoil của bạn - Tool này sẽ xoá tinfoil cũ để tránh xung đột với các bản mới).
+Nếu không rõ thì các bạn cần cắm cáp vào máy tính, tìm chọn mục 1, mở DBI, chọn Run MTP, tìm đến đường dẫn "This PC\Switch\1: SD Card\switch\tinfoil\" , sau đó copy file location.conf vào máy tính lưu lại.
 
-- Gắn thẻ SD vào máy tính, khuyến khích các bạn nên lưu bản việt hoá và cheat game của mình ra folder riêng (Để sau này update dễ chép vào), xoá hết toàn bộ có trong thẻ (Trừ thư mục emuMMC và Nintendo).
-- Chép gói LPDevNX mới nhất vào thẻ SD.
-- Vào Hekate, chọn Launch, boot vào LPDevNX atmosphere.
-- Vào daybreak, upgrade folder firmware 20.5.0.
-- Vào firmware gốc, update version mới nhất.
-- Trường hợp sau khi update xong firmware gốc và khởi động lại
-không lên màn hình, đừng lo lắng, chỉ cần tháo thẻ nhớ ra, nhấn phím nguồn,
-cho thông báo "No SD Card". Tắt nguồn, gắn thẻ SD vào máy, khỏi động lại.
+- Thứ hai, đối với các bạn dùng gói RetroArch (Switch) thì trong đường dẫn sdcard:/ có những folder game, buộc phải right-click vào folder game retro đó chọn Properties, tick chọn Hidden, chọn OK
+Kể cả folder retroarch vẫn phải hidden luôn nhé.
+Và kể cả file ảnh retroarch.jpg nữa nhé, vẫn phải hidden
+Bắt buộc thao tác như vậy để mở tool chạy sẽ không xoá retroarch của bạn.
+
+- Mở tool
+- Nhập kí tự ổ SWITCH SD (Hiện trong This PC, nhìn kỹ rồi chọn nhé!) (Ví dụ ổ H thì gõ kí tự H)
+- Nhấn Enter
+- Hỏi Y/N thì gõ kí tự Y và nhấn Enter
+- Sau khi chạy xong tắt phần mềm
+- Chép gói Atmosphere Hắc Ám vào
+- Chép file location.conf vào This PC\Switch\1: SD Card\switch\tinfoil\
+- Vào homebrew Album, tìm và mở daybreak
+- Install
+- chọn Folder Firmware (20.X.X)
+- Continue
+- Preserve Settings
+- Install (FAT32)
+- Continue
+- Reboot
+- Đợi vào atmosphere, kiểm tra xem đúng firmware mới nhất chưa nhé !
