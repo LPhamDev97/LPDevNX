@@ -104,4 +104,31 @@ Bao gồm các thành phần thiết yếu:
 
 ---
 
-# 📂 CẤU TRÚC GÓI
+
+> 📁 **Sắp xếp khoa học – Rõ ràng – Dễ quản lý**
+
+---
+
+# ⚠️ LƯU Ý QUAN TRỌNG
+
+- ❗ **Nên backup NAND trước khi sử dụng**
+- ❗ Chỉ dùng đúng firmware tương thích
+- ❗ Không chỉnh sửa cấu hình nếu không hiểu rõ
+- ❗ Tự chịu trách nhiệm khi ép xung quá mức khuyến nghị
+
+---
+
+# 👨‍💻 TÁC GIẢ
+
+**LPDevNX**  
+GitHub: https://github.com/LPhamDev97/
+
+---
+
+# ⭐ ỦNG HỘ DỰ ÁN
+
+Nếu bạn thấy hữu ích:
+
+- ⭐ **Star repository**
+- 🔄 Chia sẻ cho cộng đồng
+- 💬 Góp ý để hoàn thiện hơn
