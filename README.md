@@ -1,154 +1,107 @@
-🚀 LPDevNX Atmosphere Pack 2026
+# 🚀 LPDEVNX ATMOSPHERE PACK 2026
 
-Bộ gói Atmosphere tối ưu toàn diện dành cho Nintendo Switch
-Phát triển & tinh chỉnh bởi LPDevNX – 2026
+> **Bộ gói Atmosphere tối ưu toàn diện cho Nintendo Switch**  
+> **Phát triển & tinh chỉnh bởi LPDevNX – 2026**
 
-📌 Giới thiệu
+---
 
-LPDevNX Atmosphere Pack 2026 là bộ tùy chỉnh Atmosphere được xây dựng với mục tiêu:
+# 📌 GIỚI THIỆU
 
-⚡ Tối ưu hiệu năng hệ thống
+**LPDevNX Atmosphere Pack 2026** là bộ tùy chỉnh Atmosphere được xây dựng với mục tiêu:
 
-🔋 Cải thiện thời lượng pin
+- ⚡ **Tối ưu hiệu năng hệ thống**
+- 🔋 **Cải thiện thời lượng pin**
+- 🛠 **Fix nhiều lỗi lặt vặt thường gặp**
+- 🚀 **Tinh chỉnh sẵn cấu hình ép xung phù hợp**
+- ❄️ **Tối ưu cấu trúc làm mát**
+- 🧩 **Tích hợp đầy đủ sysmodule cơ bản**
+- 🎮 **Hỗ trợ game mượt & mod HD**
 
-🛠 Fix nhiều lỗi lặt vặt thường gặp
+> ✅ **Ổn định – Hiệu quả – Dễ sử dụng – Cài là chạy**
 
-❄️ Tối ưu cấu trúc làm mát
+---
 
-🎮 Hỗ trợ chơi game mượt hơn
+# 🔥 TÍNH NĂNG NỔI BẬT
 
-🎨 Sẵn sàng cho mod HD / nâng cấp đồ họa
+## ⚙️ 1. TỐI ƯU HIỆU NĂNG & PIN
 
-Gói được tinh chỉnh kỹ lưỡng dựa trên thực tế sử dụng lâu dài, đảm bảo ổn định – hiệu quả – dễ dùng.
+- **Giảm tiêu hao điện năng khi idle**
+- **Ổn định xung nhịp khi chơi game nặng**
+- **Cải thiện FPS trong nhiều tựa game**
+- Cân bằng giữa hiệu suất và nhiệt độ
 
-🔥 Tính năng nổi bật
-⚙️ 1. Tối ưu hiệu năng & pin
+---
 
-Tinh chỉnh cấu hình hệ thống giúp:
+## 🚀 2. CẤU HÌNH ÉP XUNG TINH CHỈNH SẴN
 
-Giảm tiêu hao điện năng khi idle
+Bao gồm profile tối ưu theo từng dòng máy:
 
-Ổn định xung nhịp khi chơi game nặng
-
-Cải thiện FPS trong nhiều tựa game
-
-Cân bằng giữa hiệu suất và nhiệt độ
-
-🚀 2. Cấu hình ép xung được tinh chỉnh sẵn
-
-Profile ép xung phù hợp theo từng dòng máy
-
-Thiết lập sẵn cấu hình:
-
-Safe Mode (ổn định lâu dài)
-
-Balanced Mode (mượt & mát)
+- 🟢 **Safe Mode** – Ổn định lâu dài
+- 🟡 **Balanced Mode** – Mượt & mát
+- 🔴 **Gaming Mode** – Ưu tiên hiệu năng
 
 Tối ưu dựa trên:
 
-Giới hạn phần cứng
+- **Giới hạn phần cứng thực tế**
+- **Hệ thống tản nhiệt của máy**
+- **Độ ổn định khi sử dụng lâu dài**
 
-Hệ thống tản nhiệt của máy
+> ✅ **Không cần chỉnh tay phức tạp**
 
-Độ ổn định thực tế
+---
 
-Không cần chỉnh tay phức tạp – chỉ việc sử dụng.
+## ❄️ 3. TỐI ƯU HỆ THỐNG LÀM MÁT
 
-❄️ 3. Tối ưu cấu trúc hệ thống làm mát
+- **Điều chỉnh fan curve hợp lý**
+- Hạn chế **throttle giảm xung**
+- Giảm tăng nhiệt đột ngột
+- Cân bằng giữa tiếng ồn và hiệu quả tản nhiệt
 
-Điều chỉnh fan curve hợp lý
+---
 
-Hạn chế tình trạng:
+## 🧩 4. TÍCH HỢP SYSMODULE ĐẦY ĐỦ
 
-Tăng nhiệt đột ngột
+Bao gồm các thành phần thiết yếu:
 
-Throttle giảm xung
+- **Quản lý ép xung**
+- **Theo dõi nhiệt độ & xung nhịp**
+- **Quản lý pin**
+- **Hỗ trợ game & mod**
+- Module ổn định hệ thống
 
-Cân bằng giữa tiếng ồn và hiệu quả tản nhiệt
+> ⚙️ **Đã cấu hình sẵn – Hạn chế xung đột**
 
-🧩 4. Tích hợp đầy đủ sysmodule cơ bản
+---
 
-Gói bao gồm các sysmodule cần thiết, dễ sử dụng:
+## 🎮 5. HỖ TRỢ GAME MƯỢT & MOD HD
 
-Quản lý ép xung
+- **Tối ưu bộ nhớ**
+- Giảm **drop FPS**
+- Cải thiện tốc độ load game
+- Tương thích tốt với:
+  - Mod đồ họa HD
+  - Texture pack
+  - Patch nâng cấp độ phân giải
 
-Theo dõi nhiệt độ & xung nhịp
+---
 
-Hỗ trợ quản lý pin
+## 🛠 6. FIX NHIỀU VẤN ĐỀ LẶT VẶT
 
-Hỗ trợ game & mod
+- Sửa lỗi nhỏ thường gặp
+- **Cải thiện độ ổn định tổng thể**
+- Tối ưu cấu trúc thư mục & cấu hình
+- Dọn dẹp thành phần dư thừa
 
-Tất cả được cấu hình sẵn, hạn chế xung đột.
+---
 
-🎮 5. Hỗ trợ game mượt & mod HD
+# 🎯 ĐỐI TƯỢNG PHÙ HỢP
 
-Tối ưu bộ nhớ
+- Người muốn **máy mượt hơn**
+- Người chơi **game nặng**
+- Người dùng **mod HD**
+- Người không muốn chỉnh tay phức tạp
+- Người muốn một bộ Atmosphere **tối ưu sẵn**
 
-Tinh chỉnh hệ thống giúp:
+---
 
-Load game nhanh hơn
-
-Giảm drop FPS
-
-Tương thích tốt với:
-
-Mod đồ họa HD
-
-Texture pack
-
-Patch nâng cấp độ phân giải
-
-🛠 6. Fix nhiều vấn đề lặt vặt
-
-Sửa các lỗi nhỏ thường gặp trong quá trình sử dụng
-
-Cải thiện tính ổn định hệ thống
-
-Tối ưu cấu trúc thư mục & cấu hình
-
-🎯 Đối tượng phù hợp
-
-Người dùng muốn:
-
-Máy mượt hơn
-
-Pin tốt hơn
-
-Ít phải tự tinh chỉnh
-
-Người chơi game nặng / mod HD
-
-Người muốn một bộ Atmosphere “cài là dùng”
-
-📂 Cấu trúc gói
-atmosphere/
-bootloader/
-config/
-modules/
-overclock_profiles/
-...
-
-Tất cả đã được sắp xếp khoa học, tối ưu sẵn.
-
-⚠️ Lưu ý
-
-Nên backup NAND trước khi sử dụng
-
-Không khuyến khích chỉnh sửa cấu hình nếu không hiểu rõ
-
-Sử dụng đúng phiên bản firmware tương thích
-
-👨‍💻 Tác giả
-
-LPDevNX
-GitHub: https://github.com/LPhamDev97
-
-⭐ Ủng hộ
-
-Nếu bạn thấy gói hữu ích, hãy:
-
-⭐ Star repository
-
-Chia sẻ cho cộng đồng
-
-Góp ý để hoàn thiện hơn
+# 📂 CẤU TRÚC GÓI
