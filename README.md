@@ -1,64 +1,154 @@
-# LPDevNX Atmosphère
-[README_ENG](https://github.com/LPhamDev97/LPDevNX/blob/main/README_ENG.md)
+🚀 LPDevNX Atmosphere Pack 2026
 
-[HƯỚNG DẪN CÀI ĐẶT GÓI LPDevNX](https://github.com/LPhamDev97/LPDevNX/blob/main/Installation%20instructions_VI_EN)
+Bộ gói Atmosphere tối ưu toàn diện dành cho Nintendo Switch
+Phát triển & tinh chỉnh bởi LPDevNX – 2026
 
-[Video hướng dẫn chi tiết cài đặt Atmosphere và Android 15 gói LPDevNX](https://youtu.be/-HiUjyuZGfw?si=vPMLLfe7fVfdpShR)
+📌 Giới thiệu
 
-**LPDevNX Atmosphère** là một bản **Custom Atmosphère** được phát triển tối ưu và được cá nhân hoá bởi LPDevNX, hướng tới hiệu năng cao và trải nghiệm người dùng tiện lợi hơn.
+LPDevNX Atmosphere Pack 2026 là bộ tùy chỉnh Atmosphere được xây dựng với mục tiêu:
 
-Lưu ý quan trọng:
-LPDevNX được phát triển dựa trên các phiên bản chính thức do Lâm Phạm phát hành, với một số gói bổ sung nhằm đáp ứng nhu cầu khai thác tối đa hiệu năng của Nintendo Switch.
-Dự án được tạo ra với mục đích phi lợi nhuận và sử dụng cá nhân.
-Mọi bản quyền thuộc về LPDevNX.
----
+⚡ Tối ưu hiệu năng hệ thống
 
-## 🚀 Tính năng chính
+🔋 Cải thiện thời lượng pin
 
-- **Undervolt và Overclock sẵn**: giảm tiêu thụ điện và tăng hiệu suất chạy game mượt hơn ngay từ đầu.
-- **Thiết kế gọn nhẹ và tối giản**: chỉ bao gồm những thành phần cần thiết cho hiệu năng cao nhất.
-- **Cấu trúc module linh hoạt**: dễ dàng thêm hoặc loại bỏ các tiện ích.
-- **Tùy chỉnh hệ thống làm mát**: điều chỉnh tốc độ quạt và profile tản nhiệt.
-- **Cập nhật thường xuyên**: luôn cập nhật bản mới nhất qua GitHub.
-- **Cộng đồng hỗ trợ**: hỗ trợ qua "[Facebook](https://www.facebook.com/share/g/1A5ZukjU9y/)"
+🛠 Fix nhiều lỗi lặt vặt thường gặp
 
----
+❄️ Tối ưu cấu trúc làm mát
 
-## 📦 Thành phần trong gói LPDevNX Atmosphère
+🎮 Hỗ trợ chơi game mượt hơn
 
-- **Atmosphère (fork)**: bản chính UltraNX tinh chỉnh các gói phù hợp, với logo LPDevNX, loại bỏ telemetry.
-- **Hekate**: bootloader đồ họa, patch firmware.
-- **Ultra Tuner**: trình điều chỉnh overclock tích hợp.
-- **Payloads tích hợp**:
-  - Lockpick RCM – dump serial keys.
-  - TegraExplorer – quản lý file hệ thống.
-- **Homebrew tích hợp**:
-  - Sphaira – menu homebrew hiện đại.
-  - AiO Switch Updater – cập nhật Atmosphère & tải backup/cheat.
-  - Daybreak – cập nhật HOS.
-  - DBI – quản lý file, lưu game, cài ứng dụng.
-- **Module có sẵn**:
-  - SaltyNX, sys‑clk, Mission Control, Status Monitor, FPSLocker, EdiZon, ReverseNX‑RT, Sysmodules, ...
+🎨 Sẵn sàng cho mod HD / nâng cấp đồ họa
 
----
+Gói được tinh chỉnh kỹ lưỡng dựa trên thực tế sử dụng lâu dài, đảm bảo ổn định – hiệu quả – dễ dùng.
 
-## 🛠 Cách sử dụng
+🔥 Tính năng nổi bật
+⚙️ 1. Tối ưu hiệu năng & pin
 
-1. Tải bản mới nhất từ mục **[Releases](https://github.com/LPhamDev97/LPDevNX/releases/latest)**.
-2. Giải nén và chép vào thẻ nhớ SD theo cấu trúc Atmosphère (`/boot/`, `/atmosphere/`, `/modules/`, ...).
-3. (Tùy chọn) Điều chỉnh tốc độ quạt, mức overclock qua **LPDevNX Tuner**.
-4. Khởi động Switch bằng **Hekate** để dùng Atmosphère bản LPDevNX.
-5. Theo dõi cập nhật mới qua **Releases**.
+Tinh chỉnh cấu hình hệ thống giúp:
 
----
+Giảm tiêu hao điện năng khi idle
 
-## 💬 Cộng đồng & Hỗ trợ
+Ổn định xung nhịp khi chơi game nặng
 
-- Tham gia **Discord/Telegram của LPDevNX** để nhận hỗ trợ trực tiếp. "https://t.me/+WNtz9Ju5Yl0wMWU9"
-- Báo lỗi hoặc đề xuất qua tab **Issues** trên GitHub.
+Cải thiện FPS trong nhiều tựa game
 
----
+Cân bằng giữa hiệu suất và nhiệt độ
 
-## ❤️ Cảm ơn
+🚀 2. Cấu hình ép xung được tinh chỉnh sẵn
 
-Cảm ơn bạn đã sử dụng **LPDevNX Atmosphère**. Hy vọng nó sẽ nâng trải nghiệm Nintendo Switch của bạn lên một tầm cao mới!
+Profile ép xung phù hợp theo từng dòng máy
+
+Thiết lập sẵn cấu hình:
+
+Safe Mode (ổn định lâu dài)
+
+Balanced Mode (mượt & mát)
+
+Tối ưu dựa trên:
+
+Giới hạn phần cứng
+
+Hệ thống tản nhiệt của máy
+
+Độ ổn định thực tế
+
+Không cần chỉnh tay phức tạp – chỉ việc sử dụng.
+
+❄️ 3. Tối ưu cấu trúc hệ thống làm mát
+
+Điều chỉnh fan curve hợp lý
+
+Hạn chế tình trạng:
+
+Tăng nhiệt đột ngột
+
+Throttle giảm xung
+
+Cân bằng giữa tiếng ồn và hiệu quả tản nhiệt
+
+🧩 4. Tích hợp đầy đủ sysmodule cơ bản
+
+Gói bao gồm các sysmodule cần thiết, dễ sử dụng:
+
+Quản lý ép xung
+
+Theo dõi nhiệt độ & xung nhịp
+
+Hỗ trợ quản lý pin
+
+Hỗ trợ game & mod
+
+Tất cả được cấu hình sẵn, hạn chế xung đột.
+
+🎮 5. Hỗ trợ game mượt & mod HD
+
+Tối ưu bộ nhớ
+
+Tinh chỉnh hệ thống giúp:
+
+Load game nhanh hơn
+
+Giảm drop FPS
+
+Tương thích tốt với:
+
+Mod đồ họa HD
+
+Texture pack
+
+Patch nâng cấp độ phân giải
+
+🛠 6. Fix nhiều vấn đề lặt vặt
+
+Sửa các lỗi nhỏ thường gặp trong quá trình sử dụng
+
+Cải thiện tính ổn định hệ thống
+
+Tối ưu cấu trúc thư mục & cấu hình
+
+🎯 Đối tượng phù hợp
+
+Người dùng muốn:
+
+Máy mượt hơn
+
+Pin tốt hơn
+
+Ít phải tự tinh chỉnh
+
+Người chơi game nặng / mod HD
+
+Người muốn một bộ Atmosphere “cài là dùng”
+
+📂 Cấu trúc gói
+atmosphere/
+bootloader/
+config/
+modules/
+overclock_profiles/
+...
+
+Tất cả đã được sắp xếp khoa học, tối ưu sẵn.
+
+⚠️ Lưu ý
+
+Nên backup NAND trước khi sử dụng
+
+Không khuyến khích chỉnh sửa cấu hình nếu không hiểu rõ
+
+Sử dụng đúng phiên bản firmware tương thích
+
+👨‍💻 Tác giả
+
+LPDevNX
+GitHub: https://github.com/LPhamDev97
+
+⭐ Ủng hộ
+
+Nếu bạn thấy gói hữu ích, hãy:
+
+⭐ Star repository
+
+Chia sẻ cho cộng đồng
+
+Góp ý để hoàn thiện hơn
