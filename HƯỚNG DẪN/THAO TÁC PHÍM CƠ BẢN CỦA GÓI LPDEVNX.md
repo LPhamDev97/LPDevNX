@@ -5,7 +5,8 @@
 - Nhấn cùng lúc phím trừ và phím cộng trên joy-con.
 --------------
 * CHỈNH ÉP XUNG GAME :
-- Mở chạy game cần ép xung > Game mở lên rồi thì mở menu UberHand (phím - và +) > Chọn sys-clk-oc > Chọn Edit app profile > Chơi cắm dock thì chỉnh mục Docked, chơi cầm tay thì chọn mục Handheld (Tự chỉnh thông số 3 mục nhỏ bao gồm : CPU,GPU,RAM) > LẦN MỞ GAME CHƠI TIẾP TỤC KHÔNG CẦN THAO TÁC - CHỈ GAME MỚI CÀI CHƯA CHỈNH THÌ CẦN VÀO CHỈNH THÔI.
+- Mở chạy game cần ép xung > Game mở lên rồi thì mở menu UberHand (phím - và +) > Chọn sys-clk-oc > Chọn Edit app profile > Chơi cắm dock thì chỉnh mục Docked, chơi cầm tay thì chọn mục Handheld (Tự chỉnh thông số 3 mục nhỏ bao gồm : CPU,GPU,RAM)
+- LẦN MỞ GAME CHƠI TIẾP TỤC KHÔNG CẦN THAO TÁC - CHỈ GAME MỚI CÀI CHƯA CHỈNH THÌ CẦN VÀO CHỈNH THÔI.
 --------------
 * XEM THÔNG SỐ FPS VÀ NHIỆT ĐỘ THÂN MÁY :
 - Mở UberHand (phím - và +) > Chọn Status Monitor > Chọn Micro > Vào game chơi sẽ hiện đầy đủ cả 2 thông số.
