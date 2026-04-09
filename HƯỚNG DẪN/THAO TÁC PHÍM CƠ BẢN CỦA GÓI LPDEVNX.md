@@ -10,11 +10,11 @@
 (Lưu ý 02: Các bạn chơi gói hack thì chỉ cần mở nguồn máy SW, nó tự boot CFW - Default nhé ! (Không cần chỉnh gì thêm).
 --------------
 * CHỈNH ÉP XUNG GAME :
-- Mở chạy game cần ép xung > Game mở lên rồi thì mở menu ULTRAHAND (phím - và +) > Chọn sys-clk-oc > Chọn Edit app profile > Chơi cắm dock thì chỉnh mục Docked, chơi cầm tay thì chọn mục Handheld (Tự chỉnh thông số 3 mục nhỏ bao gồm : CPU,GPU,RAM)
+- Mở chạy game cần ép xung > Game mở lên rồi thì mở menu ULTRAHAND (phím - và +) > Chọn Horizon-OC > Chọn Edit app profile > Chơi cắm dock thì chỉnh mục Docked, chơi cầm tay thì chọn mục Handheld (Tự chỉnh thông số 3 mục nhỏ bao gồm : CPU,GPU,RAM)
 - LẦN MỞ GAME CHƠI TIẾP TỤC KHÔNG CẦN THAO TÁC - CHỈ GAME MỚI CÀI CHƯA CHỈNH THÌ CẦN VÀO CHỈNH THÔI.
 --------------
 * XEM THÔNG SỐ FPS VÀ NHIỆT ĐỘ THÂN MÁY :
-- Mở ULTRAHAND (phím - và +) > Chọn Status Monitor > Chọn Micro > Vào game chơi sẽ hiện đầy đủ cả 2 thông số.
+- Mở ULTRAHAND (phím - và +) > Chọn Horizon Status Monitor > Chọn Micro > Vào game chơi sẽ hiện đầy đủ cả 2 thông số.
 --------------
 * ÉP CHẠY 60FPS :
 - Mở chạy game cần ép xung > Game mở lên rồi thì mở menu ULTRAHAND (phím - và +) > Chọn FPSLocker > Chọn dòng đầu tiên cho đến khi thấy số đạt 60FPS.
