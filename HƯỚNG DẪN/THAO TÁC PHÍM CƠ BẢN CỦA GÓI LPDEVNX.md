@@ -4,6 +4,11 @@
 * MỞ MENU ULTRAHAND :
 - Nhấn cùng lúc phím trừ và phím cộng trên joy-con.
 --------------
+* CHẠY GAME FIX VIỆT HOÁ ZELDA TOTK :
+- Tắt nguồn SW > Nhấn phím nguồn sau đó lập tức nhấn phím GIẢM ÂM LƯỢNG để vào HEKATE > chọn Launch > chọn LPDevNX - Fix VH
+(Lưu ý 01: Cách này chỉ áp dụng cho việt hoá Zelda TOTK).
+(Lưu ý 02: Các bạn chơi gói hack thì chỉ cần mở nguồn máy SW, nó tự boot CFW - Default nhé ! (Không cần chỉnh gì thêm).
+--------------
 * CHỈNH ÉP XUNG GAME :
 - Mở chạy game cần ép xung > Game mở lên rồi thì mở menu ULTRAHAND (phím - và +) > Chọn sys-clk-oc > Chọn Edit app profile > Chơi cắm dock thì chỉnh mục Docked, chơi cầm tay thì chọn mục Handheld (Tự chỉnh thông số 3 mục nhỏ bao gồm : CPU,GPU,RAM)
 - LẦN MỞ GAME CHƠI TIẾP TỤC KHÔNG CẦN THAO TÁC - CHỈ GAME MỚI CÀI CHƯA CHỈNH THÌ CẦN VÀO CHỈNH THÔI.
